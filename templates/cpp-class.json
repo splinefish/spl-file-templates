@@ -1,0 +1,15 @@
+{
+    "templateName": "C++ Class Template",
+    "files": [
+        {
+            "template": "cpp-class-header.tpl",
+            "extension": "h",
+            "prefix": null
+        },
+        {
+            "template": "cpp-class-implementation.tpl",
+            "extension": "cpp",
+            "prefix": null
+        }
+    ]
+}

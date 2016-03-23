@@ -1,0 +1,16 @@
+{
+  "name": "spl-file-templates",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/advanced-create-file",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "fs-plus": "^2.8.1"
+  }
+}

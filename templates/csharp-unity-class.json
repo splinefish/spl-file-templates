@@ -1,0 +1,10 @@
+{
+    "templateName": "Unity3D C# Class Template",
+    "files": [
+        {
+            "template": "csharp-unity-class.tpl",
+            "extension": "cs",
+            "prefix": null
+        }
+    ]
+}
