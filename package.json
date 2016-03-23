@@ -3,7 +3,11 @@
   "main": "./lib/main",
   "version": "2.1.0",
   "description": "Create file(s) from templates",
-  "keywords": [],
+  "keywords": [
+      "create",
+      "file",
+      "template"
+  ],
   "repository": "https://github.com/splinefish/spl-file-templates",
   "license": "MIT",
   "engines": {
