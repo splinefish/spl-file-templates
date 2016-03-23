@@ -1,7 +1,7 @@
 {
   "name": "spl-file-templates",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Create file(s) from templates",
   "keywords": [],
   "repository": "https://github.com/splinefish/spl-file-templates",
