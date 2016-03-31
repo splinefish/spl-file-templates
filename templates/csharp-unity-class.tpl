@@ -1,16 +1,12 @@
-using UnityEngine
+using UnityEngine;
 
 /*------------------------------------------------------------------------------
-    License
+    Default Header
 
-
-
-
-
-
-
-
-
+        {AUTHORNAME}
+        {AUTHOREMAIL}
+        {COMPANY}
+        {DATE} {TIME}
 ------------------------------------------------------------------------------*/
 
 namespace MyNamespace

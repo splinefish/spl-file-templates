@@ -1,4 +1,4 @@
-include "{NAME}.h"
+#include "{NAME}.h";
 
 {NAME}::{NAME}()
 {

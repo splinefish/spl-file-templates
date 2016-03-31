@@ -28,7 +28,16 @@ csharp-unity-class.json
 ```
 csharp-unity-class.tpl
 ```
-using UnityEngine
+using UnityEngine;
+
+/*------------------------------------------------------------------------------
+    Default Header
+
+        {AUTHORNAME}
+        {AUTHOREMAIL}
+        {COMPANY}
+        {DATE} {TIME}
+------------------------------------------------------------------------------*/
 
 namespace MyNamespace
 {
@@ -73,6 +82,15 @@ cpp-class.json
 ```
 cpp-class-header.tpl
 ```
+/*------------------------------------------------------------------------------
+    Default Header
+
+        {AUTHORNAME}
+        {AUTHOREMAIL}
+        {COMPANY}
+        {DATE} {TIME}
+------------------------------------------------------------------------------*/
+
 class {NAME}
 {
     public:
@@ -82,7 +100,7 @@ class {NAME}
 ```
 cpp-class-implementation.tpl
 ```
-include "{NAME}.h"
+#include "{NAME}.h";
 
 {NAME}::{NAME}()
 {
