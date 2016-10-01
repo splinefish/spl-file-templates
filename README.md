@@ -36,6 +36,7 @@ using UnityEngine;
         {AUTHORNAME}
         {AUTHOREMAIL}
         {COMPANY}
+        {PACKAGE}
         {DATE} {TIME}
 ------------------------------------------------------------------------------*/
 
@@ -88,6 +89,7 @@ cpp-class-header.tpl
         {AUTHORNAME}
         {AUTHOREMAIL}
         {COMPANY}
+        {PACKAGE}
         {DATE} {TIME}
 ------------------------------------------------------------------------------*/
 
