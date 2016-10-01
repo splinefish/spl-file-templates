@@ -1,0 +1,10 @@
+{
+    "templateName": "PHP Class Template",
+    "files": [
+        {
+            "template": "php-class.tpl",
+            "extension": "php",
+            "prefix": null
+        }
+    ]
+}
